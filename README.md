@@ -1,1 +1,1 @@
-# RM assignements 🧪
+# RM Assignments 🧪
