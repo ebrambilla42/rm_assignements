@@ -1,0 +1,41 @@
+Age;Gender;Number of Children;Student Status;Work Status;Physical Exercise;How often do you watch the news?;How many litres of water do you drink per day? ;Last Meal;Medication;Alcohol Consumption;Please state which of the following activities do you usually do just before you go off to sleep?;At what time do you usually fall asleep?;Wakeup Time;Difficulty in Sleep;Sleep Interruption;I feel refreshed after sleep;Sleep Satisfaction;Sleep Time;Time Taken to Sleep;I am a sentimental person;I am often worried about the future ;I think I am experiencing depression;I don't fully enjoy happy moments;Anxiety;Negative Thoughts;Smoking;Smoking Period;Cigarettes Consumed;Smoking Improve Mental State;Smoking Helps Sleep;Craving to Smoke
+21;Female;0;Yes;Yes;2;2;1.5;2 hours;No;1;"Check email;Watch social media";00:00;06:20;1;2;2;2;06:20:00;00:05:00;4;4;3;3;3;2;No;;;;;
+22;Male;0;No;Yes;2;2;1;More than 3 hours;No;1;"Watch social media;Read books";23:59;08:00;3;2;2;3;07:00:00;01:00:00;2;3;2;3;2;1;No;;;;;
+21;Male;0;Yes;Yes;3;5;1.5;1 hour;Yes;2;"Check email;Watch social media;Watch TV;Evening walk";00:00;08:00;3;1;4;4;08:00:00;01:00:00;4;3;3;3;2;3;No;;;;;
+22;Male;0;Yes;Yes;3;2;2.5;More than 3 hours;No;1;"Watch social media;Watch TV;Read books";23:30;06:20;2;1;3;3;06:40:00;00:30:00;4;4;3;1;2;2;No;;;;;
+21;Male;0;No;Yes;3;5;3;1 hour;Yes;1;"Check email;Watch social media;Read books;Play games on a screen;Evening walk";00:00;07:00;2;1;2;2;07:00:00;00:30:00;1;5;3;2;4;3;No;;;;;
+22;Male;0;No;Yes;3;1;4;More than 3 hours;No;1;Evening walk;23:00;06:00;1;1;5;5;07:00:00;00:30:00;3;4;1;2;1;1;Yes;5;4;1;1;1
+22;Male;0;Yes;No;2;4;1.5;More than 3 hours;No;1;"Check email;Watch social media;Play games on a screen";01:00;07:30;1;1;4;4;06:30:00;00:15:00;2;2;2;1;2;1;No;;;;;
+22;Female;0;Yes;No;1;2;1;3 hours;No;3;"Check email;Watch social media";00:00;08:00;3;1;4;4;08:00:00;00:10:00;5;5;5;3;4;3;No;;;;;
+22;Male;0;Yes;Yes;1;2;3;2 hours;No;2;"Check email;Watch social media;Read books;Play games on a screen";00:00;08:00;3;2;3;3;08:00:00;01:00:59;3;3;1;4;3;4;Yes;1;2;4;2;5
+22;Male;0;Yes;No;2;2;3;3 hours;No;1;"Watch TV;Play games on a screen";00:00;08:30;2;2;3;3;06:30:00;00:15:00;2;4;3;4;4;1;No;;;;;
+20;Female;0;Yes;No;2;3;1.5;3 hours;No;1;"Check email;Watch social media;Read books";23:00;07:30;2;1;4;4;08:00:00;00:10:00;3;3;2;3;4;2;No;;;;;
+23;Male;0;Yes;Yes;2;2;0.5;More than 3 hours;Yes;2;"Watch social media;Play games on a screen";02:00;10:00;4;3;1;2;07:00:00;01:00:00;3;2;1;2;2;1;No;;;;;
+23;Male;0;Yes;Yes;2;2;2;2 hours;No;1;Watch social media;01:00;21:40;1;1;1;1;06:00:00;00:30:00;1;3;2;3;2;2;No;;;;;
+22;Male;0;Yes;No;1;1;2;2 hours;No;2;"Check email;Watch social media;Play games on a screen";03:00;13:00;5;1;2;1;09:00:00;02:00:00;3;5;4;3;1;3;No;;;;;
+22;Male;0;No;Yes;3;3;2;More than 3 hours;No;1;"Check email;Watch social media;Watch TV";23:00;08:30;2;1;4;4;08:00:00;00:00:45;1;2;4;4;3;4;No;;;;;
+21;Female;0;No;Yes;4;5;2.5;More than 3 hours;No;1;"Watch social media;Read books;Yoga or meditation;Evening walk";04:00;11:00;2;2;4;4;07:00:00;00:05:00;3;3;3;2;3;2;No;;;;;
+31;Female;2;Yes;Yes;2;1;2;More than 3 hours;No;1;"Watch social media;Yoga or meditation";02:00;07:00;1;1;4;4;05:00:00;05:00:00;5;3;3;4;5;3;No;;;;;
+22;Male;0;No;Yes;2;3;1.5;1 hour;No;1;"Check email;Watch social media;Read books;Play games on a screen;Evening walk";03:00;11:00;1;1;2;3;08:00:00;00:10:00;3;4;3;4;3;2;No;;;;;
+21;Female;0;Yes;Yes;4;1;1;2 hours;No;1;"Watch social media;Read books";00:00;07:00;3;1;4;4;07:00:00;00:10:00;4;4;2;4;2;2;No;;;;;
+19;Male;0;Yes;Yes;5;5;2;Eat just before going to sleep;No;1;Watch social media;00:00;09:00;1;1;5;1;09:00:00;00:05:00;3;4;2;2;1;1;No;;;;;
+22;Male;0;No;Yes;2;4;1;3 hours;No;2;"Watch social media;Evening walk";01:00;09:00;2;2;3;4;08:00:00;00:15:00;3;4;1;1;2;1;No;;;;;
+17;Female;0;Yes;No;2;3;2;3 hours;No;1;"Check email;Watch social media";00:00;08:00;3;3;4;4;07:00:00;00:20:00;5;4;1;2;2;2;No;;;;;
+26;Male;0;No;Yes;3;3;1;3 hours;No;2;"Check email;Watch social media";02:00;09:00;3;4;2;2;06:00:00;00:30:00;1;2;1;1;2;2;No;;;;;
+22;Female;0;No;Yes;1;5;1;3 hours;No;1;Watch TV;23:00;06:50;2;2;2;1;07:50:00;00:10:00;5;4;3;2;3;1;No;;;;;
+20;Female;0;Yes;No;2;2;1.5;More than 3 hours;No;1;"Check email;Watch social media;Read books";01:30;09:00;3;2;3;2;08:00:00;00:30:00;3;4;5;5;1;3;No;;;;;
+25;Male;0;Yes;No;1;4;1;3 hours;No;4;"Check email;Watch social media;Read books;Smoke";02:00;10:00;3;2;3;3;08:00:00;03:00:00;4;5;5;4;2;3;Yes;8;50;4;5;4
+24;Female;0;No;Yes;5;1;2;1 hour;No;2;"Watch social media;Read books;Yoga or meditation;Evening walk";02:00;12:00;5;1;3;3;06:00:00;00:30:00;3;4;1;2;4;2;No;;;;;
+27;Male;0;No;Yes;4;4;1.5;3 hours;No;3;"Check email;Watch social media;Watch TV";01:00;08:00;1;1;5;5;08:00:00;16:00:00;5;4;3;3;3;3;Yes;3;25;4;2;4
+24;Male;0;Yes;No;5;5;2;3 hours;No;4;"Check email;Watch social media;Read books;Drink alcohol;Smoke;Play games on a screen";02:00;09:00;2;2;2;2;07:00:00;00:15:00;5;4;2;2;3;2;Yes;9;20;4;1;5
+31;Female;0;No;Yes;3;1;1;3 hours;No;1;"Watch social media;Watch TV;Read books;Play games on a screen";23:30;07:30;3;4;4;4;08:00:00;00:20:00;5;5;3;2;5;2;Yes;16;5;1;1;5
+24;Male;0;Yes;No;4;5;2.5;More than 3 hours;No;3;"Smoke;Play games on a screen;Evening walk";01:00;09:00;2;1;1;2;07:30:00;00:05:00;4;3;1;2;2;2;Yes;2;12;3;2;4
+25;Male;0;Yes;No;3;5;1;1 hour;No;4;"Check email;Watch social media;Watch TV;Read books;Drink alcohol;Smoke;Play games on a screen";00:00;08:00;2;4;3;3;07:00:00;00:15:00;4;5;3;4;5;5;Yes;2;70;3;4;5
+24;Female;0;Yes;Yes;2;5;1.5;2 hours;No;3;"Check email;Watch social media;Read books;Drink alcohol;Evening walk";00:30;09:00;1;1;3;4;08:00:00;30:00:00;2;2;1;1;1;1;Yes;3;8;1;1;5
+22;Male;0;Yes;No;1;3;1;More than 3 hours;No;5;"Watch TV;Read books";01:00;10:00;4;1;1;2;09:00:00;00:30:00;4;3;1;2;1;2;Yes;1;20;4;1;4
+23;Male;0;Yes;No;1;1;2;More than 3 hours;No;2;"Watch social media;Watch TV;Read books;Smoke";01:00;09:00;1;2;1;1;08:00:00;00:05:00;3;1;1;1;2;1;Yes;5;35;5;3;5
+20;Female;0;Yes;No;2;3;1;2 hours;No;3;"Check email;Watch social media;Read books;Smoke";23:00;09:00;3;3;2;3;09:00:00;00:15:00;5;5;2;2;4;2;Yes;4;10;3;1;3
+24;Female;0;Yes;Yes;1;5;2;More than 3 hours;No;2;"Check email;Watch social media;Smoke;Play games on a screen";02:00;09:00;5;5;1;1;07:00:00;01:00:00;5;5;5;5;5;5;Yes;10;50;5;5;5
+20;Male;0;Yes;Yes;4;5;2;3 hours;Yes;3;"Read books;Yoga or meditation";02:00;10:30;1;1;3;5;08:00:00;00:45:00;5;5;3;5;1;3;No;;;;;
+22;Male;0;Yes;Yes;4;1;3;3 hours;Yes;4;"Watch social media;Read books;Yoga or meditation;Evening walk";00:30;08:30;2;2;5;3;07:00:00;00:10:00;4;5;2;2;3;3;Yes;1;10;3;3;5
+24;Female;0;Yes;No;2;3;2;3 hours;No;3;Watch social media;00:30;09:30;1;1;4;4;09:00:00;00:20:00;5;4;2;2;4;3;Yes;5;20;3;3;4
